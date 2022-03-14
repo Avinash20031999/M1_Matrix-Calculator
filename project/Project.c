@@ -52,7 +52,7 @@ int main(void)
             break;
 		case 2:
 			printf("\nEconomy class\n");
-			printf("Seats available are\n6,7,8,9,10.\n");
+			printf("Seats available are\n20\t21\t22\t\t23\t24\t25\n26\t27\t28\t\t29\t30\t31\n32\t33\t34\t\t35\t36\t37\n38\t39\t40\t\t41\t42\t43\n");
 			do
 			{
                 printf("Select your preferred seat:\n\n");
@@ -69,7 +69,7 @@ int main(void)
 			    }
             }
             while (i!=j);
-                if(s[j] >= 32)
+                if(s[j] >= 43)
                 {
                     printf("\n");
                     printf("--------------------------\n");
@@ -77,6 +77,7 @@ int main(void)
                     printf("Seat no : %i\n",s[j]);
                     printf("Seat Confirmed\n");
                     printf("--------------------------\n\n");
+			
                 }
                 else
                 printf("\nNot available\t *Flight booked!*\n\n");
