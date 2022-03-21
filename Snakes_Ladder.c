@@ -15,7 +15,7 @@ void displaychart(int curp,char player[4])
 		
 		if(curp==100)
 		{
-			printf("*****Congratulations*****\n\n\nPlayer %s wins\n",player);
+			printf("*****Congratulations...*****\n\n\nPlayer %s wins\n",player);
 			scanf("%*s");
 			exit(0);
 		}
