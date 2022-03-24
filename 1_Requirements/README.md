@@ -19,3 +19,48 @@ This program has dynamic memory allocation involved for allocating memory for th
 - The system on the whole is viewed as a blackbox which accepts input of a single number. Then the mapping of the number is done so as to perform the appropriate function. Then the user will be prompted to enter the matrix size. After that the user is prompted to enter the matrix elements. The input is stored in 2D arrays which are dynamically allocated and passed to the respective functions. Then the output is printed on the screen. This whole process is in a loop until the user presses a key which will exit the program.
 
 ## SWOT ANALYSIS
+
+![Konfeo-SWOT](https://user-images.githubusercontent.com/101059765/159869825-258f6d0d-36e9-4a73-96c5-09d552492eea.jpg)
+
+### Strengths:
+- To find the sum, diffrence, product on a pair of matrices.
+- To find the determinant, transpose and inverse of a single matrix.
+- No limit for dimension of the matrix.
+
+### Weaknesses:
+- Restricted to only square matrices.
+- Limited number of operations defined.
+- The maximum size of the matrix is restricted to the maximum value of int.
+
+### Opportunities:
+- Opportunity to solve large matrix problems faster.
+- Saves time on solving matrix problrms in research applications.
+- Simple and efficient solution.
+
+### Threats:
+- Possible memory leaks.
+- Possibility of SIGTRAP error in certain systems.
+- Availability of better options in market.
+
+## 4W's and 1'H
+### Who:
+- Students who want to solve matrix related problems for their academic work
+- Datascience workers working on machine learning and deep learning applications which majorly involve matrices.
+- Software engineers
+- Researchers and mathematicians
+
+### What:
+- Calculate the sum, differemce, product of two matrices and also the determinnt, transpose and inverse of a single matrix.
+
+### When:
+- Students facing a difficulty in solving a matrix related problem, can use this program to conform their outputs.
+- Researchers can use it for getting a quick calculation output.
+- Comes to a great use when calculating for matrices of huge order.
+
+### Where:
+- Students, employees and researchers all over the world.
+
+### How:
+- This program can be executed in a system which has Linux or Windows operating system.
+
+
