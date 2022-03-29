@@ -64,3 +64,22 @@ This program has dynamic memory allocation involved for allocating memory for th
 - This program can be executed in a system which has Linux or Windows operating system.
 
 
+## High Level Requirements:
+
+|HLR|Description|
+|---|-----------|
+|HR01|User shall be able to specify the size of the matrix|
+|HR02|User shall be able to add the matrices|
+|HR03|User shall be able to subtract the matrices|
+|HR04|User shall be able to multiply the matrices|
+|HR05|User shall be able to find determinant, transpose and inverse of a matrix|
+
+## Low Level Requirements:
+
+|LLR|Description|
+|---|-----------|
+|LR01|User must specify the size of the matrix,,- The size specified is the dimensions of the square matrix|
+|LR02|Addition of two matrices can be done. Both the matrices need to be of same size.,,- The size entered in the begining is same for both the matrices|
+|LR03|Subtraction of two matrices is implemented in the same manner as addition|
+|LR04|Multiplication of two matrices is done on two square matrices of a specified size|
+|LR05|The determinant of a single matrix of a specified size is implemented|
