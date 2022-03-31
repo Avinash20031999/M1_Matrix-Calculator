@@ -6,3 +6,7 @@
 ## Code Quality Score :
 
 ![code quality score](https://api.codiga.io/project/32255/score/svg)
+
+## Code Grade :
+
+![code grade](https://api.codiga.io/project/32255/status/svg)
