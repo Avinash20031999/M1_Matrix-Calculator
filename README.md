@@ -5,4 +5,4 @@
 
 ## Code Quality Score :
 
-https://api.codiga.io/project/32255/score/svg
+![code quality score](https://api.codiga.io/project/32255/score/svg)
