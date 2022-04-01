@@ -14,3 +14,6 @@
 ## Codacy Badge :
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/f63d6b23b4754ac4826576b0c229162b)](https://www.codacy.com/gh/Avinash20031999/MiniProject_Template/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Avinash20031999/MiniProject_Template&amp;utm_campaign=Badge_Grade)
+
+## Build Badge :
+[![CI](https://github.com/Avinash20031999/MiniProject_Template/actions/workflows/main.yml/badge.svg)](https://github.com/Avinash20031999/MiniProject_Template/actions/workflows/main.yml)
