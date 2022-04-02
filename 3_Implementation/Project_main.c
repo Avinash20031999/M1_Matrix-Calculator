@@ -1,12 +1,10 @@
 /**
- * @file project_main.c
- * @brief  This is the main program where the project is run
- * @version 0.1
- * @date 2021-04-15
- * 
- * @copyright Copyright (c) 2021
- * 
- */
+ * @File project_main.c
+ * @brief The main program where the project run
+ * @version 1.0
+ * @Date 26 Mar 2022
+ **/
+
 #include "matrix_operations.h"
 
 /* Status of the operation requested */
@@ -31,14 +29,6 @@ void matrixcalc_menu(void);
 int oper_valid(int oper);
 
 
-/* Start of the application */
-/**
- * @brief Main program
- * 
- * @param argc 
- * @param argv 
- * @return int 
- */
 int main(int argc, char *argv[])
 {
     printf("\n****WELCOME TO THE MATRIX OPERATIONS PROGRAM****\n");
@@ -48,10 +38,7 @@ int main(int argc, char *argv[])
     }
 }
 
-/**
- * @brief A basic function which has the functionalities to input the matrices and print the respective output with choice
- * 
- */
+
 void matrixcalc_menu(void)
 {
     printf("\nPress a key to select the appropriate operation\n");
@@ -124,12 +111,7 @@ void matrixcalc_menu(void)
     }
 }
 
-/**
- * @brief A function to check if the entered number is within the limits of the set of operations specified
- * 
- * @param operation 
- * @return int 
- */
+
 int oper_valid(int oper)
 {
     /* Check if the operation is valid */
