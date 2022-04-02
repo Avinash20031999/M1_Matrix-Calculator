@@ -19,4 +19,4 @@
 [![CI](https://github.com/Avinash20031999/MiniProject_Template/actions/workflows/main.yml/badge.svg)](https://github.com/Avinash20031999/MiniProject_Template/actions/workflows/main.yml)
 
 ## Cpp Check :
-[![Analysis](https://github.com/Avinash20031999/MiniProject_Template/actions/workflows/c-cppCheck.yml/badge.svg)](https://github.com/Avinash20031999/MiniProject_Template/actions/workflows/c-cppCheck.yml)
+[![Analysis](https://github.com/Avinash20031999/M1_Matrix-Calculator/actions/workflows/c-CppCheck.yml/badge.svg)](https://github.com/Avinash20031999/M1_Matrix-Calculator/actions/workflows/c-CppCheck.yml)
