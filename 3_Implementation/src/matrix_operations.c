@@ -1,11 +1,8 @@
 /**
- * @File matrix_operations.c
- * @brief  This is the source code which contains all the functions for the project
- * @version 1.0
- * @Date 26 Mar 2022
- * 
- * @copyright Copyright (c) 2022
- * 
+ * File matrix_operations.c
+ * This is the source code which contains all the functions for the project
+ * version 1.0
+ * Date 26 Mar 2022 
  */
 #include "matrix_operations.h"
 
