@@ -1,8 +1,8 @@
 /**
- * @File project_main.c
- * @brief The main program where the project run
- * @version 1.0
- * @Date 26 Mar 2022
+ * File project_main.c
+ * Brief The main program where the project run
+ * Version 1.0
+ * Date 26 Mar 2022
  **/
 
 #include "matrix_operations.h"
