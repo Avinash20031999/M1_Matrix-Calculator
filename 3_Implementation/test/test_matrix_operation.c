@@ -6,44 +6,44 @@
 /* Prototypes for all the test functions */
 
 /**
- * @brief Testing function for addition of 2 matrices
- * 
+ Testing function for addition of 2 matrices
+  
  */
 void test_add_mat(void);
 
 /**
- * @brief Testing function for subtraction of 2 matrices
- * 
+ Testing function for subtraction of 2 matrices
+  
  */
 void test_sub_mat(void);
 
 /**
- * @brief Testing function for multiplication of 2 matrices
- * 
+ Testing function for multiplication of 2 matrices
+ 
  */
 void test_mul_mat(void);
 
 /**
- * @brief Testing function for finding determiant of matrix 
- * 
+ Testing function for finding determiant of matrix 
+  
  */
 void test_det_mat(void);
 
 /**
- * @brief Testing function for finding inverse of a function
- * 
+ Testing function for finding inverse of a function
+  
  */
 void test_inv_mat(void);
 
 /**
- * @brief To test the power function of (-1)^exp
- * 
+ To test the power function of (-1)^exp
+  
  */
 void test_pow(void);
 
 /**
- * @brief Testing function for transpose of a matrix
- * 
+ Testing function for transpose of a matrix
+  
  */
 void test_transp_mat(void);
 
